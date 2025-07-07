@@ -1,0 +1,32 @@
+{
+  "bot_token": "7321712962:AAFiIHCkP7nAqn4xXwF8PMecNsJMAlQh1XM",
+  "chat_id": 6053626373,
+  "check_interval": 1,
+  "alert_interval": 1,
+  "servers": [
+    {
+      "name": "1300빅터 (111.111.111.65)",
+      "url": "http://kotheday.duckdns.org:80",
+      "monitor": true,
+      "status": "온라인"
+    },
+    {
+      "name": "12700h빅터 (111.111.111.53)",
+      "url": "http://kotheday.duckdns.org:776",
+      "monitor": true,
+      "status": "온라인"
+    },
+    {
+      "name": "12700h_asusu (111.111.111.72)",
+      "url": "http://kotheday.duckdns.org:775",
+      "monitor": true,
+      "status": "온라인"
+    },
+    {
+      "name": "12700h_johyun (111.111.111.48)",
+      "url": "http://kotheday.duckdns.org:774",
+      "monitor": false,
+      "status": "타임아웃"
+    }
+  ]
+}
